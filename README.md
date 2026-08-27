@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/pavankumar77310/LeetCode/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/pavankumar77310/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pavankumar77310/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/pavankumar77310/LeetCode/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/pavankumar77310/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
