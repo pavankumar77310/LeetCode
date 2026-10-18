@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pavankumar77310/LeetCode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/pavankumar77310/LeetCode/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/pavankumar77310/LeetCode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavankumar77310/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/pavankumar77310/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/pavankumar77310/LeetCode/tree/master/0037-sudoku-solver) |
 | [1512-number-of-good-pairs](https://github.com/pavankumar77310/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pavankumar77310/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -67,4 +69,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/pavankumar77310/LeetCode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/pavankumar77310/LeetCode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/pavankumar77310/LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/pavankumar77310/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
