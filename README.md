@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -91,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pavankumar77310/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/pavankumar77310/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pavankumar77310/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/0032-longest-valid-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pavankumar77310/LeetCode/tree/master/0029-divide-two-integers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
