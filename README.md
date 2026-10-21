@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pavankumar77310/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pavankumar77310/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavankumar77310/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -88,5 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pavankumar77310/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/pavankumar77310/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pavankumar77310/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pavankumar77310/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
