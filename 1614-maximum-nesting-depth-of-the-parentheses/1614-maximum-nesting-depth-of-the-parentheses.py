@@ -13,6 +13,7 @@ class Solution(object):
                 stack.append(ch)
                 c+=1
                 m = max(m,c)
+                
             elif ch in ')':
                 stack.pop()
                 c-=1
