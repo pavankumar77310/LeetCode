@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/pavankumar77310/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pavankumar77310/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/pavankumar77310/LeetCode/tree/master/0067-add-binary) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/pavankumar77310/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
