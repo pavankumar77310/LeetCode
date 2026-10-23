@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pavankumar77310/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/pavankumar77310/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/pavankumar77310/LeetCode/tree/master/0704-binary-search) |
+| [1441-build-an-array-with-stack-operations](https://github.com/pavankumar77310/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1512-number-of-good-pairs](https://github.com/pavankumar77310/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pavankumar77310/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pavankumar77310/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/pavankumar77310/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/pavankumar77310/LeetCode/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/pavankumar77310/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/pavankumar77310/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/pavankumar77310/LeetCode/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/pavankumar77310/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Design
 |  |
 | ------- |
