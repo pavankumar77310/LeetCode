@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/pavankumar77310/LeetCode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavankumar77310/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/pavankumar77310/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/pavankumar77310/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/pavankumar77310/LeetCode/tree/master/0704-binary-search) |
 | [1512-number-of-good-pairs](https://github.com/pavankumar77310/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pavankumar77310/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/pavankumar77310/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/pavankumar77310/LeetCode/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pavankumar77310/LeetCode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/pavankumar77310/LeetCode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
