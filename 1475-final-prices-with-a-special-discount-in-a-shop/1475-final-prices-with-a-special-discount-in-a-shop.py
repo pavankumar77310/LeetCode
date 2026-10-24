@@ -4,15 +4,15 @@ class Solution(object):
         :type prices: List[int]
         :rtype: List[int]
         """
-        ans = []
+        stack = []
+        ans = prices[:]
 
         for i in range(len(prices)):
-            dis = 0
+            while stack and prices[stack[-1]] >= prices[i]:
+                j = stack.pop()
 
-            for j in range(i+1,len(prices)):
-                if prices[j] <= prices[i]:
-                    dis = prices[j]
-                    break
-            
-            ans.append(prices[i] - dis)
+                ans[j] -= prices[i]
+
+            stack.append(i)
+
         return ans
