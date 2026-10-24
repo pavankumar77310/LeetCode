@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/pavankumar77310/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/pavankumar77310/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pavankumar77310/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/pavankumar77310/LeetCode/tree/master/0070-climbing-stairs) |
 | [1512-number-of-good-pairs](https://github.com/pavankumar77310/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2409-count-days-spent-together](https://github.com/pavankumar77310/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pavankumar77310/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pavankumar77310/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/pavankumar77310/LeetCode/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/pavankumar77310/LeetCode/tree/master/0155-min-stack) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pavankumar77310/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
