@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/pavankumar77310/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pavankumar77310/LeetCode/tree/master/0067-add-binary) |
 | [1512-number-of-good-pairs](https://github.com/pavankumar77310/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2409-count-days-spent-together](https://github.com/pavankumar77310/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pavankumar77310/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pavankumar77310/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/pavankumar77310/LeetCode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/pavankumar77310/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/pavankumar77310/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
