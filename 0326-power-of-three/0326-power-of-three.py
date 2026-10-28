@@ -6,8 +6,11 @@ class Solution(object):
         """
         if n < 1:
             return False
+        temp = n
+        while temp%3 == 0:
+            temp = temp//3
 
-        while n%3 == 0:
-            n = n//3
-
-        return n == 1
+        if temp == 1:
+            return True
+        else:
+            return False
