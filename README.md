@@ -168,13 +168,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pavankumar77310/LeetCode/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/pavankumar77310/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pavankumar77310/LeetCode/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/pavankumar77310/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/pavankumar77310/LeetCode/tree/master/1254-number-of-closed-islands) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/pavankumar77310/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/pavankumar77310/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
