@@ -4,8 +4,18 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        a,b = 1,1
+        dp =[]
+        for i in range(n+1):
+            dp.insert(i,-1)
+        return self.calculate(n,dp)
+    def calculate(self,n,dp):
+        if n<0:
+            return 0
+        if n==0:
+            return 1
+        if dp[n]!=-1:
+            return dp[n]
 
-        for i in range(n-1):
-            a,b = b,a+b
-        return b
+        dp[n]= self.calculate(n-1,dp)+self.calculate(n-2,dp)
+
+        return dp[n]
