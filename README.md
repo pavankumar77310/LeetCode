@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pavankumar77310/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pavankumar77310/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pavankumar77310/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/pavankumar77310/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/pavankumar77310/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/pavankumar77310/LeetCode/tree/master/0037-sudoku-solver) |
 | [1254-number-of-closed-islands](https://github.com/pavankumar77310/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/pavankumar77310/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Algorithm X
 |  |
 | ------- |
@@ -208,4 +210,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/pavankumar77310/LeetCode/tree/master/0997-find-the-town-judge) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/pavankumar77310/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
