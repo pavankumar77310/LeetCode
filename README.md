@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pavankumar77310/LeetCode/tree/master/0037-sudoku-solver) |
+| [0113-path-sum-ii](https://github.com/pavankumar77310/LeetCode/tree/master/0113-path-sum-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/pavankumar77310/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/pavankumar77310/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/pavankumar77310/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/pavankumar77310/LeetCode/tree/master/0113-path-sum-ii) |
 | [1254-number-of-closed-islands](https://github.com/pavankumar77310/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/pavankumar77310/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/pavankumar77310/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/pavankumar77310/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/pavankumar77310/LeetCode/tree/master/0113-path-sum-ii) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pavankumar77310/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/pavankumar77310/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/pavankumar77310/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/pavankumar77310/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/pavankumar77310/LeetCode/tree/master/0113-path-sum-ii) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pavankumar77310/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
