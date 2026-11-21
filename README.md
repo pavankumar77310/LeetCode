@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pavankumar77310/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pavankumar77310/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/pavankumar77310/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/pavankumar77310/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavankumar77310/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/pavankumar77310/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -80,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pavankumar77310/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pavankumar77310/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/pavankumar77310/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/pavankumar77310/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pavankumar77310/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/pavankumar77310/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/pavankumar77310/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pavankumar77310/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pavankumar77310/LeetCode/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/pavankumar77310/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/pavankumar77310/LeetCode/tree/master/0326-power-of-three) |
 | [2487-remove-nodes-from-linked-list](https://github.com/pavankumar77310/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
