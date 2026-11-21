@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pavankumar77310/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/pavankumar77310/LeetCode/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/pavankumar77310/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/pavankumar77310/LeetCode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankumar77310/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavankumar77310/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/pavankumar77310/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pavankumar77310/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/pavankumar77310/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pavankumar77310/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/pavankumar77310/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pavankumar77310/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/pavankumar77310/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/pavankumar77310/LeetCode/tree/master/0143-reorder-list) |
@@ -250,4 +252,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/pavankumar77310/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pavankumar77310/LeetCode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pavankumar77310/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pavankumar77310/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
