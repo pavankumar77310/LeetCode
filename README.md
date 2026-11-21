@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/pavankumar77310/LeetCode/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/pavankumar77310/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/pavankumar77310/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/pavankumar77310/LeetCode/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankumar77310/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavankumar77310/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/pavankumar77310/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pavankumar77310/LeetCode/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/pavankumar77310/LeetCode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/pavankumar77310/LeetCode/tree/master/0113-path-sum-ii) |
 ## Matrix
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/pavankumar77310/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/pavankumar77310/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/pavankumar77310/LeetCode/tree/master/0078-subsets) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pavankumar77310/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Bracket Sequences
 |  |
