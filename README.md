@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pavankumar77310/LeetCode/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankumar77310/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavankumar77310/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/pavankumar77310/LeetCode/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/pavankumar77310/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/pavankumar77310/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/pavankumar77310/LeetCode/tree/master/0682-baseball-game) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pavankumar77310/LeetCode/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/pavankumar77310/LeetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/pavankumar77310/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/pavankumar77310/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Algorithm X
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/pavankumar77310/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pavankumar77310/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/pavankumar77310/LeetCode/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/pavankumar77310/LeetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/pavankumar77310/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
@@ -212,10 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/pavankumar77310/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pavankumar77310/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pavankumar77310/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/pavankumar77310/LeetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/pavankumar77310/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pavankumar77310/LeetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/pavankumar77310/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Tree
 |  |
